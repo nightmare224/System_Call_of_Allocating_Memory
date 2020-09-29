@@ -44,7 +44,7 @@ some system call to allocate memory in C language
 <pre>
 The mimimum units to request is 1 Header block which is 16 bytes. In other word,</br>
 if the request size is less than 16 bytes, the program will assume you need 16 bytes.
-<pre/>
+</pre>
 
 #### concept 3
 <pre>
