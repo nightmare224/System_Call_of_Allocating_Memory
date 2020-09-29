@@ -48,5 +48,5 @@ if the request size is less than 16 bytes, the program will assume you need 16 b
 
 #### concept 3
 <pre>
-We can implement realloc() and calloc() by wrappers malloc()
+We can implement realloc() and calloc() by wrappering malloc()
 </pre>
